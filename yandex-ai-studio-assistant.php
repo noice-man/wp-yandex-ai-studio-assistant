@@ -37,5 +37,5 @@ if ( is_readable( $puc_file ) ) {
         __FILE__,
         'yandex-ai-studio-assistant'
     );
-    $puc_checker->getVcsApi()->enableReleaseAssets( '/^yandex-ai-studio-assistant-v[0-9]+\\.[0-9]+\\.[0-9]+\\.zip$/i' );
+    $puc_checker->getVcsApi()->enableReleaseAssets( '/^yandex-ai-studio-assistant-v[0-9]+\.[0-9]+\.[0-9]+\.zip$/i' );
 }
