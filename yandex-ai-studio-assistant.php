@@ -4,7 +4,7 @@
  * Plugin URI: https://ворд-пресс.рф/plugins/yandex-ai-studio-assistant/
  * Update URI: https://xn----ctbgf6biedka.xn--p1ai/plugins/yandex-ai-studio-assistant/
  * Description: ИИ-помощник для анализа контента WordPress и подготовки записей с моделями Yandex AI Studio. Изменения только после подтверждения администратора.
- * Version: 1.1.3
+ * Version: 1.1.4
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: Valery Molodtsov
@@ -14,7 +14,7 @@
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
-define( 'WPR_YAI_VERSION', '1.1.3' );
+define( 'WPR_YAI_VERSION', '1.1.4' );
 define( 'WPR_YAI_ROOT', plugin_dir_path( __FILE__ ) );
 define( 'WPR_YAI_URL', plugin_dir_url( __FILE__ ) );
 define( 'WPR_YAI_DOCS', 'https://ворд-пресс.рф/solutions/yandex-ai-studio-wordpress-setup/' );
