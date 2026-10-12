@@ -3,7 +3,7 @@ Contributors: valery-molodtsov
 Tags: yandex, ai, gpt, assistant, content, seo
 Requires at least: 6.0
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,10 @@ CPT and ACF guide: https://ворд-пресс.рф/solutions/yandex-ai-studio-w
 Source code: https://github.com/noice-man/wp-yandex-ai-studio-assistant
 
 == Changelog ==
+= 1.1.1 =
+* Migrate plugin updates to WPR Update Hub v1.1.
+* Add optional, consent-based anonymous installation statistics.
+
 
 = 1.1.0 =
 * Контракты CPT/ACF/таксономий/темы/зарегистрированных метаполей и расширяемые подсказки.
